@@ -1,0 +1,19 @@
+.div-inline{
+    display: inline;
+    padding: 5px;
+}
+.input-radio{
+    margin: 0px !important;
+}
+.div-inline-label{
+    display: inline;
+}
+#listingSchool li{
+    list-style: none;
+}
+.dropdown-toggle{
+    cursor: pointer;
+}
+.modal-header .close {
+    margin-top: -30px !important;
+}
